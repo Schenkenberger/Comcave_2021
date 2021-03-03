@@ -1,0 +1,7 @@
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\bin\Debug\Demo_03_03032021.exe.config
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\bin\Debug\Demo_03_03032021.exe
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\bin\Debug\Demo_03_03032021.pdb
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\obj\Debug\Demo_03_03032021.csproj.CoreCompileInputs.cache
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\obj\Debug\Demo_03_03032021.exe
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\obj\Debug\Demo_03_03032021.pdb
+C:\Users\schen\source\repos\OOP_new\Demo_03_03032021\obj\Debug\Demo_03_03032021.csprojAssemblyReference.cache
