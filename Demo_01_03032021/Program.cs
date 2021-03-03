@@ -47,5 +47,6 @@ namespace Demo_01_03032021
     }
     class Kind : Mutter
     {
+        public int test { get; set; }
     }
 }
