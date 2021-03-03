@@ -10,7 +10,35 @@ namespace Demo_01_03032021
     {
         static void Main(string[] args)
         {
-            int test = 0;
+            Kind test = new Kind();
+            test.setName("Bla");
+            Console.WriteLine(test.getName());
+            Console.ReadLine();
         }
+    }
+    class Mutter
+    {
+        private string name;
+        private int alter;
+
+        public string getName()
+        {
+            return name;
+        }
+        public int getAlter()
+        {
+            return alter;
+        }
+        public void setAlter(int alter)
+        {
+            this.alter = alter;
+        }
+        public void setName(string name)
+        {
+            this.name = name;
+        }
+    }
+    class Kind : Mutter
+    {
     }
 }
