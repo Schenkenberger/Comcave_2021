@@ -1,0 +1,9 @@
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\bin\Debug\WindowsFormsApp2.exe
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\WindowsFormsApp2.Taschenrechner.resources
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\WindowsFormsApp2.exe
+C:\Users\schen\source\repos\OOP_new\Taschenrechner\obj\Debug\WindowsFormsApp2.pdb
