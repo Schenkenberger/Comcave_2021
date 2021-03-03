@@ -12,7 +12,7 @@ namespace Demo_01_03032021
         {
             Kind test = new Kind();
             test.name = "Herbert";
-            test.alter = 22;
+            test.alter = 23;
             test.nachname = "Test";
             Console.WriteLine(test.name);
             Console.WriteLine(test.alter);
