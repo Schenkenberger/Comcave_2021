@@ -12,7 +12,9 @@ namespace Demo_01_03032021
         {
             Kind test = new Kind();
             test.setName("Bla");
+            test.nachname = "Test";
             Console.WriteLine(test.getName());
+            Console.WriteLine(test.nachname);
             Console.ReadLine();
         }
     }
@@ -20,6 +22,8 @@ namespace Demo_01_03032021
     {
         private string name;
         private int alter;
+
+        public string nachname { get; set; }
 
         public string getName()
         {
